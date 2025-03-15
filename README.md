@@ -36,7 +36,7 @@ In addition to technical expertise, I'm interested in game design, level design,
 ![](https://github-profile-trophy.vercel.app/?username=LMAymane&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LMAymane&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
