@@ -28,7 +28,7 @@ In addition to technical expertise, I'm interested in game design, level design,
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="center">
-<a href="https://github.com/aylamiri/badge42"><img src="https://badge.mediaplus.ma/black/taya" alt="taya's 42 stats" /></a>
+<a href="https://github.com/aylamiri/badge42"><img src="https://badge.mediaplus.ma/black/aylamiri" alt="aylamiri's 42 stats" /></a>
 </p>
 
 # 📊 GitHub Stats:
