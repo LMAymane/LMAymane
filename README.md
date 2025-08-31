@@ -27,10 +27,6 @@ In addition to technical expertise, I'm interested in game design, level design,
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="center">
-<a href="https://github.com/aylamiri/badge42"><img src="https://badge.mediaplus.ma/black/aylamiri" alt="aylamiri's 42 stats" /></a>
-</p>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LMAymane&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LMAymane&theme=tokyonight&hide_border=false)  
@@ -38,9 +34,6 @@ In addition to technical expertise, I'm interested in game design, level design,
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LMAymane&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LMAymane&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
